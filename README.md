@@ -62,3 +62,10 @@ If you want to build locally, make sure you have installed Rust and added `wasm3
 ```
 cargo build --target wasm32-wasi --release
 ```
+
+## Harvey Elite Upgrade
+This repository includes a /.harvey hardening profile for secure legal document parsing, case research, and compliance workflows.
+Key files:
+- .harvey/HARVEY_ELITE_PROFILE.yaml
+- .harvey/COMPLIANCE_CONTROLS.md
+- .harvey/CONNECTORS.json
